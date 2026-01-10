@@ -1,4 +1,4 @@
-# 📝 Git 约定式提交指南 (Conventional Commits)
+# Git 约定式提交指南 (Conventional Commits)
 
 > **核心原则**：让别人（和未来的你自己）一眼看懂这行代码改了什么。
 
@@ -56,4 +56,5 @@
 
 1. **自动生成日志**：自动化工具可以提取 `feat` 和 `fix` 自动生成 `CHANGELOG.md`。
 2. **快速定位**：排查 Bug 时，可以直接过滤 `fix` 类型的提交。
+
 3. **显得专业**：这是开源社区（如 Vue, React, Angular）通用的国际标准。
